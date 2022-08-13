@@ -1,0 +1,22 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - modal_progress_hud_nsn (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - modal_progress_hud_nsn (from `Flutter/ephemeral/.symlinks/plugins/modal_progress_hud_nsn/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  modal_progress_hud_nsn:
+    :path: Flutter/ephemeral/.symlinks/plugins/modal_progress_hud_nsn/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 57701585bf7de1b3fc2bb61f6378d73bbdea8424
+  modal_progress_hud_nsn: 8099d46c2cf9de7af8fe0a3f8f5d2aa32cf956c3
+
+PODFILE CHECKSUM: 6eac6b3292e5142cfc23bdeb71848a40ec51c14c
+
+COCOAPODS: 1.11.2
